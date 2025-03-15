@@ -1,0 +1,8 @@
+{
+    "/assets/css/admin/admin_style.min.css": "/assets/css/admin/admin_style.min.css",
+    "/assets/js/admin/admin_common.min.js": "/assets/js/admin/admin_common.min.js",
+    "/assets/js/admin/profile.min.js": "/assets/js/admin/profile.min.js",
+    "/assets/js/admin/product.min.js": "/assets/js/admin/product.min.js",
+    "/assets/js/admin/user.min.js": "/assets/js/admin/user.min.js",
+    "/assets/js/ckeditor.min.js": "/assets/js/ckeditor.min.js"
+}
